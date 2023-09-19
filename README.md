@@ -1,1 +1,2 @@
-# alu-shell
+My first commit
+pwd
