@@ -1,2 +1,1 @@
-My first commit
-pwd
+Task 0.Where am I?
