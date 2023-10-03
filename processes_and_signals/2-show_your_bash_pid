@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Using ps to list all processes with hierarchy and user-oriented format
+# shellcheck disable=SC2009
+
+ps aux --forest | grep "bash"
