@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#then, use grep to find proccedss by name ps is not allowed
+# I will, Use pgrep to find processes by name
 
-
-pgrep -1 bash
+pgrep -l bash
